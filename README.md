@@ -8,15 +8,15 @@ Clone this Repo and open the project in Unity. Open the Scene Cinema.unity to se
 
 ### Prerequisites
 
-This Project was created in Unity 5.5 and requires a * **Unity Pro Licence**. 
+This Project was created in Unity 5.5 and requires a **Unity Pro Licence**. 
 
 ### System Operation
 
-To create the cinema a video with a 5.1 audio track was acquired online. Next, That Videos audio trackes were opened and exported seperatly as WAVs using Audacity. 
+To create the cinema a video with a 5.1 audio track was acquired online. Next, that videos audio tracks were opened and exported separately as WAVs using Audacity. 
 
-The [Cinema Model](https://free3d.com/3d-model/cine-room-62699.html) opened in blender, exported to FBX and Imported into Unity. 
+The [Cinema Model blend file](https://free3d.com/3d-model/cine-room-62699.html) was opened in blender, exported to FBX and imported into Unity. 
 
-A Plane was added to the scene to act as the screen and the video (with no embeded audio) was added as a movie texture. 
+A plane was added to the scene to act as the screen and the video (with no embedded audio) was added as a movie texture. 
 
 6 Audio sources were added to the scene, positioned in a 5.1 configuration and set to 3D sources.
 
