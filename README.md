@@ -18,7 +18,7 @@ The [Cinema Model](https://free3d.com/3d-model/cine-room-62699.html) opened in b
 
 A Plane was added to the scene to act as the screen and the video (with no embeded audio) was added as a movie texture. 
 
-6 Audio sources were added to the scene and positioned in a 5.1 configuration.
+6 Audio sources were added to the scene, positioned in a 5.1 configuration and set to 3D sources.
 
 The VideoSurroundManager class was created just to have a central place to connect audio clips to audio sources and to manage the looping.  
 
