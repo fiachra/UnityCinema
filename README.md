@@ -1,6 +1,6 @@
 # Surround Cinema Test
 
-This is a Unity project designed to look at some of the options available for surround audio in Unity.  
+This is a Unity project designed to test some of the options available for surround audio in Unity.  
 
 ## Getting Started
 
@@ -9,6 +9,7 @@ Clone this Repo and open the project in Unity. Open the Scene Cinema.unity to se
 ### Prerequisites
 
 This Project was created in Unity 5.5 and requires a **Unity Pro Licence**. 
+This Project has only been testing on OSX so far.
 
 ### System Operation
 
